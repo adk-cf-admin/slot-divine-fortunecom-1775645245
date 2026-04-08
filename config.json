@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#161907",
+            "lang-select-color": "#222829",
+            "bg-light": "#161907",
+            "welcome-bonus-bg": "#161907",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#0d0f06",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#a1824a",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#871100",
+            "yellow": "#a1824a",
+            "yellow-button": "#871100",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#a1824a",
+            "casino-cards": "#161907",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#a1824a",
+            "providers-back": "#161907",
+            "faq-label": "#161907",
+            "bg-footer": "#161907",
+            "copyright": "#e7e7d5",
+            "starColor": "#a1824a",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5879"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5881",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Divine Fortune Slot Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5882",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Divine Fortune Slot"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Divine Fortune Slot",
+                    "title": "Divine Fortune Slot — 96.59% RTP, 5–12 Free Spins, 10x–200x Coin Wins and Mega Jackpot",
+                    "description": "Divine Fortune by NetEnt is a 5x3 slot with 20 fixed paylines, Falling Wilds Re-Spins, Wild on Wild, up to 12 free spins, and a dedicated Jackpot Bonus. Play Divine Fortune for a chance to trigger Minor, Major, and Mega Jackpots plus coin rewards worth 10x to 200x your bet.",
+                    "canonical": "slot-divine-fortune.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5883",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "slot-divine-fortune.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5884"
+                },
+                "hero": {
+                    "title": "Divine Fortune Slot — 96.59% RTP, Up to 12 Free Spins and 3 Jackpots",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5885",
+                    "imageSizeModifier": 10,
+                    "imageYModifier": -4,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5886",
+                    "mobileImageSizeModifier": -4,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Progressive jackpots boost big-win potential strongly.",
+                        "Falling Wilds keep spins active and lively.",
+                        "Free Spins make bonus rounds feel richer.",
+                        "Medium volatility suits balanced longer sessions.",
+                        "Simple rules stay friendly for newcomers.",
+                        "Greek mythology gives the slot identity.",
+                        "Jackpot bonus adds separate prize excitement."
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "Know more",
+                    "appTitle": "Divine Fortune App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5887",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Divine Fortune App",
+                    "mobileGooglePlayImageTitle": "Divine Fortune App",
+                    "mobileIosImageTitle": "Divine Fortune App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Divine Fortune",
+                        "description1": "Divine Fortune is one of NetEnt’s best-known slots, built around an ancient Greek mythology theme and a very approachable game structure.",
+                        "items": [],
+                        "description2": "It uses a 5x3 layout with 20 fixed paylines, so the gameplay feels clear and easy to follow from the very first spins. The core excitement comes from Falling Wilds Re-Spins, where wilds stay active and can keep the reels alive longer than a regular base spin. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5888",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "The free spins round adds even more energy because wilds become much more impactful and can expand across full reels. A major part of the slot’s identity is the jackpot bonus with three reward levels, which gives the game its famous progressive edge. Overall, Divine Fortune feels like a polished mythological slot that combines readable mechanics, strong bonus design, and memorable jackpot potential."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Divine Fortune — slot review and features",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nDivine Fortune Slot Features and Core Mechanics\n<\/h3>\n<p>\nDivine Fortune is a medium-volatility video slot that keeps the rules simple while making the gameplay feel lively and rewarding. The game uses a classic 5-reel, 3-row layout with 20 fixed paylines, so players can understand the structure quickly without losing the excitement of layered bonus features. Falling Wilds Re-Spins, Wild on Wild expansions, free spins, and a three-level jackpot feature give the slot more depth than a basic mythology-themed game. This balance makes Divine Fortune attractive both for players exploring progressive slots and for those who enjoy steady, readable gameplay.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDivine Fortune Key Characteristics\n<\/h4>\n<ul>\n            <li>• Provider: NetEnt<\/li>\n            <li>• Layout: 5 reels x 3 rows<\/li>\n            <li>• Paylines: 20 fixed paylines<\/li>\n            <li>• RTP: 96.59%<\/li>\n            <li>• Volatility: Medium<\/li>\n            <li>• Hit frequency: around 20%<\/li>\n            <li>• Bet range: 0.20 to 100<\/li>\n            <li>• Features: Falling Wilds Re-Spins, Wild on Wild, Free Spins, Jackpot Bonus<\/li>\n            <li>• Free spins: 5, 8, or 12<\/li>\n            <li>• Jackpots: Minor, Major, Mega<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWhere to Play Divine Fortune\n<\/h3>\n<p>\nDivine Fortune is usually available on licensed online gaming platforms that include NetEnt content in their slot libraries. The game can often be found both in real-money mode and in free-play format for players who want to explore the mechanics first. It works well on desktop, smartphone, and tablet devices, which makes access flexible and convenient. In many game lobbies, Divine Fortune appears in sections dedicated to progressive jackpots, mythology slots, or classic NetEnt titles. The best playing environment is a platform with clear game rules, an accessible paytable, and a transparent RTP version.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nDivine Fortune Demo Mode Overview\n<\/h3>\n<p>\nThe Divine Fortune demo mode lets players explore the slot without risking real money and without putting pressure on their bankroll. The free version keeps the same reels, paylines, symbols, and core features, including Falling Wilds, Free Spins, and the Jackpot Bonus structure. This makes demo play especially useful for understanding the pace of the game and seeing how often re-spins appear compared with the rarer premium bonus moments. While demo wins cannot be withdrawn, the mode is excellent for learning the slot and choosing a comfortable betting style.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nDivine Fortune Paytable Overview\n<\/h3>\n<p>\nThe Divine Fortune paytable is built around a clear symbol hierarchy, with premium mythology icons at the top and lower-value card symbols supporting smaller base-game wins. This structure makes the slot easy to read and helps players understand where the strongest line value comes from. The table below highlights the main payout groups and their role in the gameplay.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color:#A1824A;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Symbol<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout for 3 \/ 4 \/ 5<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Feature Note<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Wild (Pegasus)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">x1 \/ x4 \/ x30<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Substitutes for regular symbols and starts Falling Wilds<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Medusa<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">x1 \/ x4 \/ x30<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">One of the highest regular-paying symbols<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>High Premium Symbol<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">x0.9 \/ x3 \/ x20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Strong base-game payout value<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Mid Premium Symbol<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">x0.8 \/ x2.5 \/ x15<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Reliable premium line support<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Premium Symbol<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">x0.7 \/ x2 \/ x10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Mid-tier mythology value<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Low Symbols A\/K Group<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">x0.35 \/ x0.9 \/ x4<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Supports frequent smaller hits<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Low Symbols Q\/J Group<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">x0.3 \/ x0.75 \/ x3<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Most common low-value combina&shy;tions<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHow Players Usually Win in Divine Fortune\n<\/h3>\n<p>\nPlayers do not usually get the best results in Divine Fortune by raising the stake aggressively or trying to force a quick comeback. In real play, the slot tends to perform better when it is approached with patience, because the rhythm often builds through Falling Wilds Re-Spins before a stronger bonus sequence appears. The base game can stay active, but the most memorable wins usually come from a well-timed free spins round or from the coin-based jackpot feature. In practical terms, a stable betting level and enough session balance to survive quieter stretches work better than emotional stake changes. The strongest approach is to treat Divine Fortune as a game of timing, discipline, and bonus awareness rather than guaranteed short-term wins.\n<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Divine Fortune — bonuses, features, and how to play",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nDivine Fortune Bonuses, Special Features, and Extra Offers\n<\/h3>\n<p>\nDivine Fortune stands out because it combines several layers of bonus activity instead of relying on a single feature. The slot keeps the base game lively through Falling Wilds Re-Spins, adds stronger reel behavior through Wild on Wild, and then builds extra excitement with free spins and a dedicated jackpot bonus. This creates a smoother session flow because the player can experience smaller bursts of action before reaching the rarer premium features. The free spins round feels especially valuable because wilds become much more powerful and can cover full reels. The jackpot feature adds long-range excitement by opening the path to Minor, Major, and Mega rewards. As for external promotions, Divine Fortune usually fits best with free spins packages, cashback deals, and slot tournament campaigns, although those offers depend on the platform rather than the slot itself.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDivine Fortune In-Game Bonuses\n<\/h4>\n<ul>\n            <li>• Falling Wilds Re-Spins — every landed wild can drop down one position and trigger a re-spin, keeping the same spin alive and improving the chance of connecting additional symbols.<\/li>\n            <li>• Wild on Wild — when an overlay wild lands on an existing wild, it expands to cover the full reel, which can create some of the slot’s most visually powerful line wins.<\/li>\n            <li>• Free Spins — 3 scatters award 5 free spins, 4 scatters award 8, and 5 scatters award 12, with stronger wild behavior during the round.<\/li>\n            <li>• Jackpot Bonus — 3 or more bonus symbols in the base game unlock a coin feature where each coin can carry a value from 10x to 200x the original bet.<\/li>\n            <li>• Minor, Major, and Mega Jackpots — filling 1 row awards Minor, 2 rows award Major, and the full grid awards Mega Jackpot.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCommon Promotional Examples for Divine Fortune\n<\/h4>\n<ul>\n            <li>• Free spins offers — a typical example may include 20, 50, or 100 free spins for selected mythology or progressive slots, depending on the campaign rules.<\/li>\n            <li>• Cashback deals — players may see examples such as 5% to 15% cashback, which can make longer sessions feel smoother without changing the game’s internal math.<\/li>\n            <li>• Slot tournaments — weekly or weekend leaderboard events can add an extra competitive layer for active slot players.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWhy These Bonuses Matter\n<\/h4>\n<ul>\n            <li>• In-game features shape the real identity of Divine Fortune, while platform promotions can extend playtime, soften variance, or add extra value around the slot experience.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nDivine Fortune Free Spins and Multipliers Table\n<\/h3>\n<p>\nThe free spins feature in Divine Fortune is triggered by scatters, but the bonus round feels stronger than in many standard slots because wilds can become full-reel expansions. In addition to free spins, the slot also includes a separate jackpot bonus where coin values introduce direct bet multipliers. This gives the game two different reward paths: bonus spins and jackpot progression.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #A1824A;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Trigger<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Reward<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Boost \/ Multiplier<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>3 Scatters<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5 Free Spins<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Wilds can expand across the full reel<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>4 Scatters<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">8 Free Spins<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Longer bonus cycle with the same enhanced wild behavior<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>5 Scatters<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">12 Free Spins<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Maximum standard free spins package<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>3+ Bonus Symbols in Base Game<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Jackpot Bonus<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Coins can carry values from 10x to 200x bet<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>1 Filled Coin Row<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Minor Jackpot<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">First jackpot level<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>2 Filled Coin Rows<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Major Jackpot<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Mid-tier jackpot level<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>3 Filled Coin Rows<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Mega Jackpot<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Top progressive reward<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHow to Play Divine Fortune\n<\/h3>\n<p>\nDivine Fortune is easy to start because it uses a classic reel structure and fixed paylines that do not require extra setup. The player chooses a bet, launches a spin or autoplay, and then follows the symbol interactions across the 5x3 grid. The key is not only to watch line wins, but also to understand which symbols trigger re-spins, free spins, and the jackpot feature.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep-by-Step Divine Fortune Guide\n<\/h4>\n<ul>\n            <li>• Choose a comfortable stake that matches your session balance.<\/li>\n            <li>• Remember that all 20 paylines are fixed and already active.<\/li>\n            <li>• Press Spin or use Auto Play to start the round.<\/li>\n            <li>• Watch for wilds, because they trigger Falling Wilds Re-Spins.<\/li>\n            <li>• Track scatter symbols, since 3, 4, or 5 scatters award 5, 8, or 12 free spins.<\/li>\n            <li>• Look for 3 or more bonus symbols in the base game to enter the Jackpot Bonus.<\/li>\n            <li>• Use the paytable to understand symbol value and feature priority more clearly.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nDivine Fortune Playing Tips\n<\/h3>\n<p>\nDivine Fortune usually feels best in a calm, controlled session where the stake stays consistent and decisions are not driven by emotion. The slot has medium volatility, but its most important bonus moments do not always arrive in short bursts, so session planning matters. The better a player understands Falling Wilds, Free Spins, and the Jackpot Bonus, the smoother and more logical the experience becomes.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nUseful Tips for Divine Fortune\n<\/h4>\n<ul>\n            <li>• Start in demo mode to understand the slot’s pace and the role of re-spins.<\/li>\n            <li>• Keep your betting level steady instead of changing it impulsively.<\/li>\n            <li>• Leave enough bankroll room for a full bonus cycle rather than judging the slot too quickly.<\/li>\n            <li>• Do not rely on one feature alone, because smaller re-spin activity and larger bonus events play different roles.<\/li>\n            <li>• Check the game version if multiple RTP settings are available.<\/li>\n            <li>• Set clear stop-loss and stop-win limits before the session starts.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nDivine Fortune Mistakes That Drain the Bankroll\n<\/h3>\n<p>\nThe most common Divine Fortune mistakes are usually caused by unrealistic expectations and poor stake control rather than by the slot itself. Because the game often feels active through re-spins, some players start assuming that a major bonus must be close, even though the slot keeps its own natural rhythm. In most cases, bankroll damage comes from a chain of emotional decisions, not from one unlucky spin.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCommon Divine Fortune Bankroll Mistakes\n<\/h4>\n<ul>\n            <li>• Starting with a stake that is too high for the session balance.<\/li>\n            <li>• Raising the bet aggressively after dead spins in an attempt to recover losses.<\/li>\n            <li>• Misreading Falling Wilds as a guarantee of a strong payout every time.<\/li>\n            <li>• Expecting the jackpot feature to appear quickly just because the slot is progressive.<\/li>\n            <li>• Ignoring that the Jackpot Bonus is tied to the base game structure.<\/li>\n            <li>• Judging the slot too early after only a very short sample of spins.<\/li>\n            <li>• Playing without preset time, loss, or win limits.<\/li>\n<\/ul><br>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Does Divine Fortune feel the same on desktop and mobile?",
+                            "answer": "Yes in terms of mechanics, because the game model stays the same. The main difference is usually the interface scale and control placement."
+                        },
+                        {
+                            "title": "What makes Divine Fortune stand out among mythology slots?",
+                            "answer": "It combines an ancient Greek atmosphere with very readable mechanics. Many similar games feel more complicated, while Divine Fortune stays clear and focused."
+                        },
+                        {
+                            "title": "Does the slot feel active even outside major bonuses?",
+                            "answer": "Yes, Falling Wilds Re-Spins help the base game feel alive. Even when a major feature does not land, the slot often keeps the reels interesting."
+                        },
+                        {
+                            "title": "Does the jackpot reset after it is won?",
+                            "answer": "Progressive jackpots work on an accumulating model, so after a payout the main prize begins building again. That is a normal feature of this slot type."
+                        },
+                        {
+                            "title": "Does stake size affect bonus value?",
+                            "answer": "Yes, because many rewards in Divine Fortune are linked to the current bet. A higher stake increases the absolute value of multipliers and jackpot-related rewards."
+                        },
+                        {
+                            "title": "Why does Divine Fortune remain popular?",
+                            "answer": "Because it successfully blends classic structure with strong bonus depth. The clean mechanics, mythology theme, and memorable jackpot feature give it long-lasting appeal."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Divine Fortune Slot",
+  "short_name": "Divine Fortune Slot",
+  "theme_color": "",
+  "background_color": "#161907",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1775643538-z62v3zbqstj9-jd5-divinefortune-logo.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
